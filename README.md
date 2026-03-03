@@ -1,5 +1,5 @@
 # NOTICE
-Изменение 2 в ветке branch2
+Изменение 3 в ветке branch2
 This project is no longer actively maintained, it should still work for the foreseeable future
 
 ---
